@@ -1,5 +1,5 @@
 # JurassicFarce
-Jurassic Farce is a management app for the manager of Jurassic Park. The app was made over six days with a team of four people using React in the frontend, and using Spring fand PostgreSQL in the backend.
+Jurassic Farce is a management app for the manager of Jurassic Park. The app was made over six days with a team of four people using React in the frontend, and using Spring and PostgreSQL in the backend.
 
 ![Screenshot of dinosaur page](client/public/dinoPage.png)
 ![Screenshot of dinosaur create page](client/public/dinoCreatePage.png)
